@@ -61,6 +61,9 @@ Rclone — integração com armazenamento em nuvem
 ACL & Quotas — controle de acesso e limites de armazenamento  
 Bash Script — automação e interface interativa  
 Rsync — transferência segura de dados  
+
 🎯 Objetivo do Projeto
 
 Automatizar e padronizar a administração de servidores Samba, reduzindo erros operacionais e simplificando a gestão diária através de uma interface prática em terminal.
+
+Projeto realizado pelo eduwx
