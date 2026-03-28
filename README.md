@@ -28,7 +28,7 @@ Backups criptografados utilizando Rclone
 Controle de taxa de transferência para evitar bloqueios de API  
 Monitoramento de logs em tempo real com baixo consumo de recursos  
 
-##🌐 Rede e Infraestrutura  
+## 🌐 Rede e Infraestrutura  
 
 Compatível com LXC e Proxmox  
 Detecção automática do ambiente (container ou hardware físico)  
