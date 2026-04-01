@@ -35,26 +35,7 @@ Detecção automática do ambiente (container ou hardware físico)
 Interface adaptável ao tamanho do terminal  
 
 
-## 🚀 Como Utilizar  
-
-Pré-requisitos  
-Ubuntu 22.04+ ou Debian 11+  
-Acesso root ou sudo  
-Instalação  
-
-Baixe o script:  
- 
-wget https://link-do-seu-repositorio/samba.sh  
-
-Permissão de execução:  
-
-chmod +x samba.sh  
-
-Executar o painel:  
-
-sudo ./samba.sh  
-
-🛠️ Tecnologias Utilizadas  
+## 🛠️ Tecnologias Utilizadas  
 
 Samba — compartilhamento de arquivos em rede  
 Rclone — integração com armazenamento em nuvem  
@@ -62,8 +43,6 @@ ACL & Quotas — controle de acesso e limites de armazenamento
 Bash Script — automação e interface interativa  
 Rsync — transferência segura de dados  
 
-🎯 Objetivo do Projeto
+## 🎯 Objetivo do Projeto
 
 Automatizar e padronizar a administração de servidores Samba, reduzindo erros operacionais e simplificando a gestão diária através de uma interface prática em terminal.
-
-Projeto realizado pelo eduwx
